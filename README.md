@@ -58,6 +58,7 @@
 ### Backup
 - [Arq](https://www.arqbackup.com/) - Encrypted backups to Amazon, Dropbox, Google, OneDrive, etc.
 - [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
+- [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Incremental and bootable backup; painless recovery. ![Freeware][Freeware Icon]
 
 ### Bookmark Utilities
 
@@ -67,6 +68,7 @@
 ### Chat Clients
 
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
+- [Colloquy](http://colloquy.info/) - A Mac OSX Internet chat client. [![Open-Source Software][OSS Icon]]
 - [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon]](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual)
@@ -120,18 +122,21 @@
 
 ### Editors
 
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom)
 - [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
 - [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr) ![Freeware][Freeware Icon]
+- [Visual Studio Code](https://code.visualstudio.com/) - A new type of tool with simplicity of a code editor with edit-build-debug cycle. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)
 
 
 ### Email Utilities
 
 - [Airmail](http://airmailapp.com/) - Lightning fast email client designed for El Capitan.
 - [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
+- [Opera Mail](https://www.opera.com/computer/mail) - A lightweight, customizable mail client. ![Freeware][Freeware Icon]
 
 
 ### Finder
